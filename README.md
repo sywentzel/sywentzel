@@ -4,8 +4,13 @@ Testing Markdown
 Hi! Im Sy!
 
 ## Interests
--Judo
--Gaming
--Film
+-Martial Arts
+-Deadpool
+-Software in Aviation
 
 **Favorite Language** HTML
+
+### Hobbies
+-Gaming
+-Film
+-Judo
