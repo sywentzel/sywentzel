@@ -1,5 +1,3 @@
-# Testing-Markdown
-Testing Markdown
 # About me
 Hi! Im Sy!
 
@@ -14,3 +12,9 @@ Hi! Im Sy!
 -Gaming
 -Film
 -Judo
+
+#### Fun Fact
+I am a Yonkyu in Judo and plan to promote in the future
+
+##### Skills I'm learning
+Basics of programing
